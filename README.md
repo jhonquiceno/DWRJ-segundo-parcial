@@ -1,9 +1,9 @@
 # Parcial Segundo Corte Desarrollo Web 🚀
 
 
-Nombre completo estudiante :
+Nombre completo estudiante : Carlos Jaramillo
 
-Codigo :
+Codigo : 220738
 
 **Descripción del Problema:**
 
